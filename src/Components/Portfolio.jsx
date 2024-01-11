@@ -31,10 +31,9 @@ const imageAltText = "lake in the background";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Stairlight controller",
+    description: "An open-source project for a Two-Way PIR Stair light Controller.",
+    url: "https://github.com/alphaseneca/stairlight_controller",
   },
   {
     title: "Web Development for Beginners",
